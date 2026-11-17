@@ -4,6 +4,14 @@ Mask displayed email and phone details on Discord's **My Account** settings page
 
 Maintained by [@yrdn576-lgtm](https://github.com/yrdn576-lgtm).
 
+## Screenshots
+
+**Masked account information and Reveal state**
+
+![AccountPrivacy: masked account details compared with Reveal state; personal information removed from the example](docs/accountprivacy-preview.jpg)
+
+*The example screenshot has been edited to remove personal account details. Masking is a display feature, not a security boundary.*
+
 ## Installation
 
 This repository contains Vencord **userplugin source code**. It is not a standalone plugin package for the standard Vencord Installer.
